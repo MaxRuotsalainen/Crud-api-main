@@ -4,7 +4,7 @@ A simple api system using Node and Express.js with real-time Create, Read, Updat
 
 
 
-![MERN CRUD Screenshot](https://i.ibb.co/pJ6M2QX/Screenshot-2022-12-02-at-10-46-05.png)
+![CRUD Screenshot in postman](https://i.ibb.co/pJ6M2QX/Screenshot-2022-12-02-at-10-46-05.png)
 
 ## Show Some :heart: :wave:
 [![GitHub Stars](https://img.shields.io/github/stars/MaxRuotsalainen/Crud-application-node.js.svg?style=social&label=Star)](https://github.com/MaxRuotsalainen/Crud-application-node.js)
