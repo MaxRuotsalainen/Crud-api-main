@@ -11,6 +11,6 @@ A simple api system using Node and Express.js with real-time Create, Read, Updat
 [![GitHub Forks](https://img.shields.io/github/forks/MaxRuotsalainen/Crud-application-node.js.svg?style=social&label=Fork)](https://github.com/MaxRuotsalainen/Crud-application-node.js/fork)
 [![GitHub Watchers](https://img.shields.io/github/watchers/MaxRuotsalainen/Crud-application-node.js.svg?style=social&label=Watch)](https://github.com/MaxRuotsalainen/Crud-application-node.js)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/cefjoeii.svg?style=social&label=Follow)](https://github.com/MaxRuotsalainen/)
+[![Follow on GitHub](https://img.shields.io/github/followers/MaxRuotsalainen.svg?style=social&label=Follow)](https://github.com/MaxRuotsalainen/)
 
 
